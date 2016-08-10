@@ -9,3 +9,5 @@ COMPILING.md - self-descriptive
 CONTRIBUTING.md - self-descriptive
 Cataclysm-DDA.sublime-project - style config
 CataclysmWin.cbp - codeblocks config
+ISSUES.md - self-descriptive
+LICENSE.txt - self-descriptive
