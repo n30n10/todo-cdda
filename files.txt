@@ -1,1 +1,11 @@
 .astylerc - code style
+.editorconfig - style config
+.gitattributes - file types
+.gitignore - file ignore
+.travis.yml - autoconfig
+CMakeLists.txt - self-descriptive
+COMPILING-CMAKE.md - self-descriptive
+COMPILING.md - self-descriptive
+CONTRIBUTING.md - self-descriptive
+Cataclysm-DDA.sublime-project - style config
+CataclysmWin.cbp - codeblocks config
