@@ -1,0 +1,5 @@
+1. Check all files in repo > in folders;
+2. Write ideas in separate file;
+3. Mod (family?)
+4. Font
+5. Installer (NSIS)
