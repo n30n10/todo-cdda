@@ -1,4 +1,4 @@
-1. Check all files in repo > in folders;
+1. Check all files in repo > in folders > labfiles (3dp mods, utilities etc);
 2. Write ideas in separate file;
 3. Mod (family?)
 4. Font
