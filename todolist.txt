@@ -3,3 +3,4 @@
 3. Mod (family?)
 4. Font
 5. Installer (NSIS)
+6. Archive of my settings
