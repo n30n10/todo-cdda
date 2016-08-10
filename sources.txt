@@ -2,14 +2,29 @@ main repo (order: files > subfolders)
   jsons
   other files
   code
-lab
-  mods
-  utilities
-post-apocalyptic
-  rpgs
-    crpgs
-      Fallout-like
-    trpgs
-      GURPS
+IRC
+website
+wiki (lore)
+forum
+  lab
+    mods
+    utilities
+  other?
+themes
+  post-apocalyptic
+    rpgs
+      crpgs
+        Fallout-like
+      trpgs
+        GURPS (+other rulebooks)
+        40k?
+    wikipedia
+    survivalism
+  cyberpunk
+    Gibson
+    Stevenson
+    Sterling
+   eschatology
+   terrorism
 roguelike
   DC:SS
